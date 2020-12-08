@@ -8,7 +8,7 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@4.0.1/icons/twitter.svg' alt='linkedin' height='30' width='40'>](https://twitter.com/alfredoaloi/)
 
 ### 👨‍💻 Now working on
-- [Goff](https://github.com/alfredoaloi/goff) - a python vocal assistant
+- [Meredith](https://github.com/alfredoaloi/meredith) - a python vocal assistant
 - [Cine-Master](https://github.com/Cine-Master) - a Cinema Manager project for an university exam
 - [Item Shopping List Backend](https://github.com/EricaCoppolillo/SSD_Backend) - a simple Django project for an university exam
 
